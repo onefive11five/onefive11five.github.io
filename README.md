@@ -1,2 +1,1 @@
-# onefive11five.github.io
-https://github.com/CopperKoi
+# https://github.com/CopperKoi
